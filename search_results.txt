@@ -1,0 +1,116 @@
+C:/Users/User/Documents/1.txt
+C:/Users/User/Documents/MainAppLog.txt
+C:/Users/User/Documents/readme.txt
+C:/Users/User/Documents/torque2.txt
+C:/Users/User/Documents/codeVS/Mini project/mini search engine/DATA_BASE.txt
+C:/Users/User/Documents/codeVS/Mini project/Mini-Search-Engine-master/DATA_BASE.txt
+C:/Users/User/Documents/codeVS/Mini project/Search engine/search_results.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/@bcoe/v8-coverage/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/@webassemblyjs/leb128/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/address/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/camel-case/node_modules/tslib/CopyrightNotice.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/camel-case/node_modules/tslib/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/chrome-trace-event/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/cliui/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/css-has-pseudo/node_modules/cssesc/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/css.escape/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/cssesc/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/cssom/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/cssstyle/node_modules/cssom/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/data-urls/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/deepmerge/license.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/domexception/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/dot-case/node_modules/tslib/CopyrightNotice.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/dot-case/node_modules/tslib/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/emoji-regex/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/eslint-plugin-jsx-a11y/node_modules/emoji-regex/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/esquery/license.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/10-stderr.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/10-stdout-stderr.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/10-stdout.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/100-stderr.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/100-stdout-stderr.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/100-stdout.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/1000-stderr.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/1000-stdout-stderr.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/exit/test/fixtures/1000-stdout.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/he/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/html-encoding-sniffer/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/html-escaper/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/is-potential-custom-element-name/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/jsdom/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/jsesc/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/lodash._reinterpolate/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/lower-case/node_modules/tslib/CopyrightNotice.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/lower-case/node_modules/tslib/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/lz-string/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/mkdirp/bin/usage.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/no-case/node_modules/tslib/CopyrightNotice.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/no-case/node_modules/tslib/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/node-libs-browser/node_modules/punycode/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/param-case/node_modules/tslib/CopyrightNotice.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/param-case/node_modules/tslib/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/pascal-case/node_modules/tslib/CopyrightNotice.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/pascal-case/node_modules/tslib/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/path-is-inside/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/performance-now/license.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/postcss-custom-selectors/node_modules/cssesc/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/postcss-dir-pseudo-class/node_modules/cssesc/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/postcss-pseudo-class-any-link/node_modules/cssesc/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/punycode/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/recursive-readdir/test/testdir/c.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/recursive-readdir/test/testdir/d.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/recursive-readdir/test/testdirBeta/ignore.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/regenerate/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/regexpu-core/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/regjsgen/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/require-main-filename/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/set-blocking/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/setimmediate/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/signal-exit/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/stream-http/test/server/static/basic.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/string-natural-compare/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/test-exclude/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/tslib/CopyrightNotice.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/tslib/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/v8-to-istanbul/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/webpack-dev-server/node_modules/cliui/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/webpack-dev-server/node_modules/emoji-regex/LICENSE-MIT.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/webpack-dev-server/node_modules/yargs-parser/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/whatwg-encoding/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/whatwg-mimetype/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/whatwg-url/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/xml-name-validator/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/node_modules/yargs-parser/LICENSE.txt
+C:/Users/User/Documents/codeVS/react 101/my-app/public/robots.txt
+C:/Users/User/Documents/codeVS/work/Gaming profile/logo/Readme!.txt
+C:/Users/User/Documents/codeVS/work/Gaming profile/logo/VR GAMES/font.txt
+C:/Users/User/Documents/codeVS/work/work 1/logos/help.txt
+C:/Users/User/Documents/DDU v18.0.0.9/settings/Languages/_For translators - ReadMe.txt
+C:/Users/User/Documents/helix presets/readme.txt
+C:/Users/User/Documents/helix presets/__MACOSX/._readme.txt
+C:/Users/User/Documents/Image-Line/FPC/placeholder.txt
+C:/Users/User/Documents/Image-Line/Harmor/placeholder.txt
+C:/Users/User/Documents/Image-Line/Loops/placeholder.txt
+C:/Users/User/Documents/music director/film4/rrr.txt
+C:/Users/User/Documents/My Games/Age of Empires 3/Age3Log.txt
+C:/Users/User/Documents/My Games/Age of Empires 3/RM3/Age3RMamazonia.dmp.txt
+C:/Users/User/Documents/PCSX2/logs/emuLog.txt
+C:/Users/User/Documents/STL/Ignite/Libra/Manual/Changelog.txt
+C:/Users/User/Documents/Studio One/Macros/EventNames.txt
+C:/Users/User/Documents/Studio One/Macros/macrosrevision.txt
+C:/Users/User/Documents/swarplug/DirectX/Windows XP/Readme.txt
+C:/Users/User/Documents/swarplug/Swar Systems SwarPlug Full Edition V1.0-VST/Key.txt
+C:/Users/User/Documents/SynthMaster/FavouritePresets.txt
+C:/Users/User/Documents/SynthMaster/SentCrashLogs.txt
+C:/Users/User/Documents/SynthMaster/SynthMasterFolders.txt
+C:/Users/User/Documents/SynthMaster/SynthMasterLicenceKey.txt
+C:/Users/User/Documents/SynthMaster/Config/SynthMasterConfig.txt
+C:/Users/User/Documents/Zoom/2021-06-30 12.44.54 1DS19IS049 -K Tarun's Zoom Meeting 85408313107/chat.txt
