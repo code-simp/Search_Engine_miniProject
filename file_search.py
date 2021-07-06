@@ -1,12 +1,13 @@
 import os
 import pickle
+import time
 import PySimpleGUI as sg
 sg.ChangeLookAndFeel('BlueMono')
 
 class Gui:
     def __init__(self):
-        self.layout = [[sg.Text('search Term', size=(10,1)), sg.Input(size=(45,1), focus=True, key="TERM"), sg.Radio('Contains', group_id='choice', key="CONTAINS", default=True), sg.Radio('Starts With', group_id='choice', key="STARTSWITH"), sg.Radio('Ends With', group_id='choice', key="ENDSWITH")],
-                       [sg.Text('root Path', size=(10,1)), sg.Input('c:/',size=(45,1), key="PATH"), sg.FolderBrowse('Browse'), sg.Button('Re-index', size=(10,1), key="_INDEX_"), sg.Button('Search', size=(10,1), bind_return_key=True, key="_SEARCH_")],
+        self.layout = [[sg.Text('Search for', size=(10,1)), sg.Input(size=(45,1), focus=True, key="TERM"), sg.Radio('Contains', group_id='choice', key="CONTAINS", default=True), sg.Radio('Starts With', group_id='choice', key="STARTSWITH"), sg.Radio('Ends With', group_id='choice', key="ENDSWITH")],
+                       [sg.Text('Root Directory', size=(10,1)), sg.Input('c:/',size=(45,1), key="PATH"), sg.FolderBrowse('Browse'), sg.Button('Re-index', size=(10,1), key="_INDEX_"), sg.Button('Search', size=(10,1), bind_return_key=True, key="_SEARCH_")],
                        [sg.Output(size=(100,30))]]
         self.window=sg.Window('Directory Search Engine').Layout(self.layout)
 
@@ -61,28 +62,13 @@ class SearchEngine:
             for row in self.results:
                 f.write(row + '\n')
 
-def test1():
-    s=SearchEngine()
-    s.load_existing_index()
-    s.search('gecho')
-
-    print()
-    print('>> Ther were {:,d} mathches out of {:,d} records Searched.' .format(s.matches, s.records))
-    print()
-    print('>>this query produced the following matches: \n')
-    for match in s.results:
-        print(match)
-
-def test2():
-    g = Gui()
-    while True:
-        event, values = g.window.Read()
-        print(event, values)
 
 def main():
     g = Gui()
     s = SearchEngine()
     s.load_existing_index()
+    
+    t0 = time.time()
 
     while True:
         event, values = g.window.Read()
@@ -97,13 +83,22 @@ def main():
             print()
         if event =='_SEARCH_':
             s.search(values)
-
+            print('Search Result : ')
             print()
             for result in s.results:
                 print(result)
-                
-            print('>> Ther were {:,d} mathches out of {:,d} records Searched.' .format(s.matches, s.records))
+
+            print()    
+            print('There were {:,d} mathches out of {:,d} records Searched.' .format(s.matches, s.records))
             print()
-            print('>>this query produced the following matches: \n')
+            t1 = time.time()
+            total = t1-t0
+            print("Total Search Time : " + str(total))
+
+
 
 main()
+
+
+
+
